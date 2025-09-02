@@ -1,1 +1,4 @@
-created a new file
+#skills
+Python
+Beginner in C
+Beginner in HTML
