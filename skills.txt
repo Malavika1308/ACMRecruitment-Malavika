@@ -1,0 +1,4 @@
+#skills
+Python
+Beginner in C
+Beginner in HTML
