@@ -1,0 +1,8 @@
+ACM RECRUITMENT Debug the Beast
+
+elif num > second:
+    second = num
+In this snippet of the code it misread duplicate value of the larger number to be the second largest, which is wrong.
+
+elif num > second and num < largest:
+Now the code is fixed. In this corrected code only those numbers who are smaller than the largest number can be the second largest.
